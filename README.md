@@ -6,6 +6,7 @@ Front part of tracking mobile app
 ## Tools
 - react-native
 - react-navigation
+- react-native-elements
 - expo
 
 ## Installation
