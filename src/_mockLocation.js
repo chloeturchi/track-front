@@ -24,4 +24,7 @@ setInterval(() => {
     location: getLocation(counter)
   });
   counter++
-}, 1000)
+}, 1000);
+
+// longitude: -0.6678269 + increment * tenMetersWithDegrees,
+// latitude: 44.820518299999996 + increment * tenMetersWithDegrees
