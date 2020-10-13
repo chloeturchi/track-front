@@ -4,10 +4,17 @@
 Front part of tracking mobile app
 
 ## Tools
+- expo
 - react-native
 - react-navigation
 - react-native-elements
-- expo
+- react-native-maps
+- context, useContext 
+- useState, useEffect, useCallback
+- custom hooks
+- custom server: express, mongoose, node
+- database: mongoDB
+- axios
 
 ## Installation
     Install the dependencies from the package.json file with npm install
